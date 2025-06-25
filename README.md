@@ -1,6 +1,6 @@
 # 📖 Storyboard – AI-Powered Financial Literacy Game for Teens
 
-![Local Icon](./assets/icon.png)
+<img src="assets/icon.png" alt="Storyboard Icon" width="150"/>
 
 **Storyboard** is an iOS app that teaches teens how to manage money—through immersive, interactive storytelling powered by **Groq's LLaMA 3**, Firebase, and SwiftUI. Built for the 2025 FBLA Introduction to Programming competition, Storyboard blends **gameplay, AI, and real-life financial decision-making** into one unforgettable experience.
 
