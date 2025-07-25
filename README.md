@@ -1,4 +1,4 @@
-# 📖 Storyboard – AI-Powered Financial Literacy Game for Teens
+# 📖 Storyboard – AI-Powered Financial Literacy Game for Teens - FBLA NATIONALIST
 
 <img src="assets/icon.png" alt="Storyboard Icon" width="150"/>
 
