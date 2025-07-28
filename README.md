@@ -26,8 +26,6 @@
 |-------------|---------|----------------|------------------|
 | ![Home](https://your-image-url.com/home.png) | ![AI](https://your-image-url.com/ai.png) | ![Adventure](https://your-image-url.com/adventure.png) | ![Report](https://your-image-url.com/report.png) |
 
-> 📌 *Add your real screenshots or videos here!*
-
 ---
 
 ## 🛠️ Built With
